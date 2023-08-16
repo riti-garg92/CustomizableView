@@ -1,4 +1,5 @@
-CustomizableView is an Android library that empowers you to create single resizable, rotatable, and movable view. With CustomizableView, you can enhance your app's user interface by allowing users to interactively manipulate a view's position, size, and orientation on the screen.
+CustomizableView is an Android library that empowers you to create single resizable, rotatable, and movable view. With CustomizableView, you 
+can enhance your app's user interface by allowing users to interactively manipulate a view's position, size, and orientation on the screen.
 
 Features
 Integrate a single child view with customizable attributes.
