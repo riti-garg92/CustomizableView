@@ -1,8 +1,6 @@
 
 
 Oapp/src/androidTest/java/p/ritika/customizableview/ExampleInstrumentedTest.java,8\9\8984b3815d67cc2d271f83463c7302a2978f046e
-P
- app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
 p
 @app/src/test/java/p/ritika/customizableview/ExampleUnitTest.java,9\b\9bd92d2c489fc4b6c14588cf37b545823ff3aa8a
 F
@@ -26,3 +24,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

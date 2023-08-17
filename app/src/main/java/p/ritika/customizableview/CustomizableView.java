@@ -20,7 +20,7 @@ import android.widget.ImageView;
 
 public class CustomizableView extends FrameLayout {
 
-    public static final String TAG = "com.ritika.Customizable";
+    public static final String TAG = "p.ritika.customizableview";
     private BorderView ivBorder;
     private ImageView ivScale, ivRotate, ivCustom,ivDelete,ivDrag;
     private float scale_orgX = -1, scale_orgY = -1;
