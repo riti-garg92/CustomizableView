@@ -1,0 +1,58 @@
+
+i
+java:S1192]"SDefine a constant instead of duplicating this literal "DraggableViewGroup" 3 times.(ÜİË×
+Œ
+java:S1192»"pDefine a constant instead of duplicating this literal "CustomizableView can host only one direct child" 4 times.(×Ö¾Öøÿÿÿÿ
+c
+java:S1192b"HDefine a constant instead of duplicating this literal "ivScale" 3 times.(ëåÜ©ÿÿÿÿÿ
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÊÕ¿
+k	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë«§ßşÿÿÿÿ
+k	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ì†»Øıÿÿÿÿ
+l	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ø®÷şÿÿÿÿ
+l	java:S117†"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç¿°çùÿÿÿÿ
+l	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¼³Íùÿÿÿÿ
+l	java:S117“"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸‹ÕÆúÿÿÿÿ
+g	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤àè¯
+g	java:S117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÒê˜
+?
+java:S1604´"(Make this anonymous inner class a lambda(¯«àÊ
+j	java:S116"URename this field "scale_orgX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áºËÌ
+j	java:S116"URename this field "scale_orgY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áºËÌ
+n	java:S116"TRename this field "move_orgX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ”³ûÿÿÿÿ
+n	java:S116"TRename this field "move_orgY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ”³ûÿÿÿÿ
+z	java:S116"`Rename this field "CORNER_BUTTON_SIZE_DP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë”±’ùÿÿÿÿ
+n
+java:S3008"XRename this field "SELF_WIDTH_DP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶û›¡
+n
+java:S3008"YRename this field "SELF_HEIGHT_DP" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êôâ
+˜
+java:S1186ş"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÑÃÆ§
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(é¢Ïûÿÿÿÿ
+[
+java:S1659"EDeclare "ivRotate" and all following declarations on a separate line.(ÂÇêñ
+>
+java:S1659"(Declare "scale_orgY" on a separate line.(áºËÌ
+B
+java:S1659"'Declare "move_orgY" on a separate line.(ğ”³ûÿÿÿÿ
+@
+java:S1659"%Declare "centerY" on a separate line.(¸ÊÕÛşÿÿÿÿ
+6
+java:S1659„"Declare "y" on a separate line.(èçÕ
+F
+java:S3010-"+Remove this assignment of "SELF_HEIGHT_DP".(£¬³ªùÿÿÿÿ
+@
+java:S3010."*Remove this assignment of "SELF_WIDTH_DP".(‚µÅ©
+F
+java:S30105"+Remove this assignment of "SELF_HEIGHT_DP".(£¬³ªùÿÿÿÿ
+@
+java:S30106"*Remove this assignment of "SELF_WIDTH_DP".(‚µÅ©
+=	java:S131Ğ""Add a default case to this switch.(ãÁğ™øÿÿÿÿ
+D
+java:S1185 "(Remove this method to simply inherit it.(ÕÆ¾ùıÿÿÿÿ
+V
+java:S3398†"?Move this method into the anonymous class declared at line 180.(Ş›á’
+[
+java:S3398¤"?Move this method into the anonymous class declared at line 180.(¥ğ‡ùÿÿÿÿ
+â
+java:S6541¶"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 93 to 64, Complexity from 20 to 14, Nesting Level from 4 to 2, Number of Variables from 19 to 6.(’½°ÿüÿÿÿÿ
