@@ -39,7 +39,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.github.riti-garg92"
-            artifactId = "my-library"
+            artifactId = "CustomizableView"
             version = "1.0"
 
             afterEvaluate {
