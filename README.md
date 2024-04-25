@@ -47,8 +47,8 @@ Add the dependency
 	</dependency>
 
 Usage:
-In XML
-// you can add any single view you want to customize
+In XML (// you can add any single view you want to customize)
+
 		<p.ritika.customizableview.CustomizableView
 		android:layout_width="300dp"
 		android:layout_height="300dp">
