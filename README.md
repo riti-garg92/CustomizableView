@@ -49,15 +49,15 @@ Add the dependency
 Usage:
 In XML
 // you can add any single view you want to customize
-	<p.ritika.customizableview.CustomizableView
-	android:layout_width="300dp"
-	android:layout_height="300dp">
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:src="@drawable/download"
-            android:scaleType="fitXY"/>
-    </p.ritika.customizableview.CustomizableView>
+		<p.ritika.customizableview.CustomizableView
+		android:layout_width="300dp"
+		android:layout_height="300dp">
+       			 <ImageView
+          				  android:layout_width="match_parent"
+           				 android:layout_height="match_parent"
+           				 android:src="@drawable/download"
+          				  android:scaleType="fitXY"/>
+  		  </p.ritika.customizableview.CustomizableView>
 
 You can also add view programmatically like:
 // you can add any single view you want to customize
