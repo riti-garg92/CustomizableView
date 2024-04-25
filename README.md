@@ -10,6 +10,7 @@ Also added one custom corner to perform any action.
 User can also customize actions wants to perform.
 
 Watch https://youtube.com/shorts/Hr2HgVzugQ0 for the preview of CustomizableView with imageview
+![CustomizableView](https://github.com/riti-garg92/CustomizableView/assets/167803970/bccd4f08-f018-49fa-a305-ff9cda059a91)
 
 SetUp:
 
