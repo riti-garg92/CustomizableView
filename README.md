@@ -31,12 +31,12 @@ Add the dependency
 
 2.maven
 
-<repositories>
+	<repositories>
 	<repository>
 	<id>jitpack.io</id>
 	<url>https://www.jitpack.io</url>
 	</repository>
-</repositories>
+	</repositories>
 
 Add the dependency
 
@@ -48,13 +48,10 @@ Add the dependency
 
 Usage:
 In XML
-
+// you can add any single view you want to customize
 	<p.ritika.customizableview.CustomizableView
 	android:layout_width="300dp"
 	android:layout_height="300dp">
-
-// you can add any single view you want to customize
-
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -65,14 +62,14 @@ In XML
 You can also add view programmatically like:
 // you can add any single view you want to customize
 
-ImageView imageView = new ImageView(this);
-imageView.setImageDrawable(getDrawable(R.drawable.download));
-imageView.setScaleType(ImageView.ScaleType.FIT_XY);
-LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
-imageView.setLayoutParams(params);
-CustomizableView  customizableView = new CustomizableView(this, 300, 300, 20);
-customizableView.addView(imageView);
-binding.coordinator.addView(customizableView);
+	ImageView imageView = new ImageView(this);
+	imageView.setImageDrawable(getDrawable(R.drawable.download));
+	imageView.setScaleType(ImageView.ScaleType.FIT_XY);
+	LinearLayout.LayoutParams params = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.MATCH_PARENT);
+	imageView.setLayoutParams(params);
+	CustomizableView  customizableView = new CustomizableView(this, 300, 300, 20);
+	customizableView.addView(imageView);
+	binding.coordinator.addView(customizableView);
 
 
 Note: you can also hide views according to the requirements
