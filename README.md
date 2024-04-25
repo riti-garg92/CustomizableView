@@ -30,6 +30,7 @@ Add the dependency
 	}
 
 2.maven
+////
 <repositories>
 <repository>
 <id>jitpack.io</id>
