@@ -9,6 +9,8 @@ Quick and hassle-free integration into your Android projects.
 Also added one custom corner to perform any action.
 User can also customize actions wants to perform.
 
+Watch https://youtube.com/shorts/Hr2HgVzugQ0 for the preview of CustomizableView with imageview
+
 SetUp:
 
 Step 1. Add the JitPack repository to your build file
@@ -74,3 +76,4 @@ You can also add view programmatically like:
 
 Note: you can also hide views according to the requirements
 settings button is added for custom requirements
+
