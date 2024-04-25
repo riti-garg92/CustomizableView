@@ -30,12 +30,12 @@ Add the dependency
 	}
 
 2.maven
-////
+
 <repositories>
-<repository>
-<id>jitpack.io</id>
-<url>https://www.jitpack.io</url>
-</repository>
+	<repository>
+	<id>jitpack.io</id>
+	<url>https://www.jitpack.io</url>
+	</repository>
 </repositories>
 
 Add the dependency
@@ -49,9 +49,9 @@ Add the dependency
 Usage:
 In XML
 
-<p.ritika.customizableview.CustomizableView
-android:layout_width="300dp"
-android:layout_height="300dp">
+	<p.ritika.customizableview.CustomizableView
+	android:layout_width="300dp"
+	android:layout_height="300dp">
 
 // you can add any single view you want to customize
 
